@@ -16,3 +16,5 @@ This workgroup will write a policy for contributing and managing code repositori
 It is expected that this work will incorporate significant portions of IETF RFC 8874 (https://datatracker.ietf.org/doc/html/rfc8874). 
 
 This workgroup will pilot document version control using a code repository and will write initial drafts of documents in markdown. The workgroup will meet infrequently, such as monthly or quarterly. In lieu of attending frequent (e.g., weekly) meetings, participation in group mailing lists is REQUIRED as a condition of membership in this workgroup.
+
+This is a work in progress and may contain errors and may never be published.
