@@ -26,7 +26,7 @@ This workgroup will pilot document version control using a code repository and w
 
 This is a work in progress and may contain errors and may never be published.
 
-This is the second release.
+This is the third release.
 
 ## Chairs:
 
